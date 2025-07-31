@@ -35,7 +35,7 @@ jobs:
       - name: Ensure Azure Backend Storage Exists
         run: |
           RESOURCE_GROUP="rg-of-carbon"
-          STORAGE_ACCOUNT="storage88998898"
+          STORAGE_ACCOUNT="azureblobstorage64"
           CONTAINER_NAME="container5579"
           LOCATION="eastus2"
 
